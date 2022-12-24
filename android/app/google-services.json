@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445478539327",
+    "project_id": "blog-aaa8c",
+    "storage_bucket": "blog-aaa8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445478539327:android:b7ea759560befaee4f288a",
+        "android_client_info": {
+          "package_name": "com.livcode.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445478539327-3c5u92lq7fk6dibl080acsr9njlsecig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYm8Ymmymb9Kb8eK43XQ1RcIW8ag2nzIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445478539327-3c5u92lq7fk6dibl080acsr9njlsecig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
